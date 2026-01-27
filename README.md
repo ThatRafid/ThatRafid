@@ -35,3 +35,47 @@
 docker run -p 8000:8000 yourusername/custom-saas:latest
 curl http://localhost:8000/api/health
 # Response: {"status": "healthy", "tenants": 42}
+```
+
+**Frontend** (React+Vite):
+```bash
+docker run -p 3000:3000 -v ./data:/app/data yourusername/custom-saas-frontend:latest
+# Visit http://localhost:3000
+```
+
+## Tech Stack
+
+| Backend | Frontend | Infra | Tools |
+|---------|----------|-------|-------|
+| Python 3.12, Django 5+, FastAPI | React 18, TypeScript, Vite, TailwindCSS, React Router | Docker, Caddy/NGINX, Redis, Celery, Coolify | Cryptography, PostgreSQL/MySQL, GitHub Actions |
+
+## Past Projects
+
+*(Add screenshots/GIFs of deployed apps here)*
+- Multi-tenant CRM with tenant isolation
+- Automated data pipeline + dashboard
+- Secure file sharing SaaS with E2E encryption
+
+## Get Your Custom Software
+
+**Ready to build?** Open an [Issue](https://github.com/yourusername/custom-saas/issues/new?template=project-request.md) with:
+- What software/server do you need?
+- Target users/features
+- Data requirements
+- Budget/timeline (optional)
+
+I'll respond with a Docker-ready prototype in days.
+
+## Contributing
+
+Debug contributions welcome! Follow standard fork → PR flow.
+
+## License
+
+MIT License - deploy freely, modify as needed. See [LICENSE](LICENSE).
+
+## Contact
+
+**Abrar Abdullah Rafid**  
+💼 [Portfolio](https://yourwebsite.com) | 🐦 [@yourhandle](https://twitter.com/yourhandle)  
+📧 Open an issue or DM for custom SaaS requests
