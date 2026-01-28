@@ -107,7 +107,8 @@ This approach reduces development time while maintaining:
 
 [![Instagram](https://img.shields.io/badge/Instagram-ThatRafid-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/ThatRafid)
 [![Twitter / X](https://img.shields.io/badge/X-ThatRafid-000000?style=flat&logo=x&logoColor=white)](https://x.com/ThatRafid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ThatRafid-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ThatRafid) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ThatRafid-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ThatRafid)
+
 Portfolio: coming soon
 
 Open an issue or reach out directly for project discussions.
