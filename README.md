@@ -1,81 +1,116 @@
-# Custom SaaS Builder
+# Abrar Abdullah Rafid (ThatRafid)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+**AI-assisted Software Builder | Custom SaaS & Automation**
 
-**Turn your software dreams into reality.** I build secure, multi-tenant SaaS platforms, data management systems, and automation tools using AI-assisted development. Just describe your needs—I handle the rest with production-ready Docker deployments.
+I design and build custom software systems with a focus on **clarity, deployability, and client control**.  
+My work combines system design and human judgment with AI-assisted implementation to deliver production-ready software efficiently.
 
-**Expertise:** Full-stack Python (Django/FastAPI), React+TypeScript+Tailwind, Redis/Celery, Caddy/NGINX, Coolify self-hosting, Docker volumes, and enterprise-grade cryptography.
+I work solo and also take on freelance and contract projects.
 
-## Featured Capabilities
-
-- 🚀 **Multi-Tenant SaaS** - Scalable architectures for multiple clients on shared infrastructure
-- 🗄️ **Data & Database Management** - Robust schemas, migrations, Redis caching, backup strategies
-- 🤖 **Automation Software** - Celery task queues, scheduled jobs, workflow orchestration
-- 🔐 **Super Secure** - Cryptography expert; hardened deployments with JWT, encryption at rest/transit
-- 🏗️ **Full-Stack Modern** - FastAPI/Django backends + React/Vite/TS/Tailwind frontends
-- 📦 **Production-Ready** - Dockerized apps, Coolify deployment, consistent volumes
-
-## How It Works
-
-1. **Request Software**: Message with requirements (features, users, data needs)
-2. **AI-Powered Build**: I generate, debug, secure, and optimize the full codebase
-3. **Docker Package**: Everything ships as Docker images + volumes for instant deployment
-4. **Self-Host Ready**: Deploy on your Coolify server or any Docker environment
-5. **Iterate**: Debug/fix/deploy cycles until perfect
-
-## Quick Start Demo
-
-**Backend API** (FastAPI example):
-```bash
-docker run -p 8000:8000 yourusername/custom-saas:latest
-curl http://localhost:8000/api/health
-# Response: {"status": "healthy", "tenants": 42}
-```
-
-**Frontend** (React+Vite):
-```bash
-docker run -p 3000:3000 -v ./data:/app/data yourusername/custom-saas-frontend:latest
-# Visit http://localhost:3000
-```
+---
 
 ## Tech Stack
 
-| Backend | Frontend | Infra | Tools |
-|---------|----------|-------|-------|
-| Python 3.12, Django 5+, FastAPI | React 18, TypeScript, Vite, TailwindCSS, React Router | Docker, Caddy/NGINX, Redis, Celery, Coolify | Cryptography, PostgreSQL/MySQL, GitHub Actions |
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-## Past Projects
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 
-*(Add screenshots/GIFs of deployed apps here)*
-- Multi-tenant CRM with tenant isolation
-- Automated data pipeline + dashboard
-- Secure file sharing SaaS with E2E encryption
+### Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=flat&logo=cloudflare&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-## Get Your Custom Software
+---
 
-**Ready to build?** Open an [Issue](https://github.com/yourusername/custom-saas/issues/new?template=project-request.md) with:
-- What software/server do you need?
-- Target users/features
-- Data requirements
-- Budget/timeline (optional)
+## What I Deliver
 
-I'll respond with a Docker-ready prototype in days.
+- Full **source code ownership**
+- **Dockerfiles and docker-compose** included
+- Deployable on **client-owned infrastructure**
+- No vendor lock-in
+- Clear project structure and basic documentation
 
-## Contributing
+You receive the complete codebase, not a hosted black box.
 
-Debug contributions welcome! Follow standard fork → PR flow.
+---
 
-## License
+## Areas of Work
 
-MIT License - deploy freely, modify as needed. See [LICENSE](LICENSE).
+- Multi-tenant SaaS applications  
+- Internal tools and automation  
+- Education platforms (quizzes, question banks, payments)  
+- Software licensing and DRM-style systems  
+
+---
+
+## Infrastructure & Deployment
+
+| Area | Tools / Approach |
+|-----|------------------|
+| Containerization | Docker, docker-compose |
+| Servers | Self-managed VPS |
+| Internet Exposure | Cloudflare Tunnel |
+| Reverse Proxy | NGINX, Caddy |
+| HTTPS | Managed via Cloudflare |
+| Databases | PostgreSQL, MariaDB |
+| Caching / Queues | Redis (basic usage) |
+| CI | GitHub Actions |
+| Deployment Model | Client-owned infrastructure |
+
+---
+
+## How I Work
+
+1. Clarify requirements and constraints  
+2. Design system architecture  
+3. Use AI for implementation under direct guidance  
+4. Review and debug logic manually  
+5. Deliver source code with Docker configuration  
+6. Support deployment and iteration  
+
+The goal is software that can be **understood, maintained, and controlled** by its owner.
+
+---
+
+## AI-Assisted Development
+
+AI is used as an implementation tool, not as a decision maker.  
+Architecture, constraints, and correctness are defined by me.
+
+This approach reduces development time while maintaining:
+- system structure
+- maintainability
+- deployment reliability
+
+---
 
 ## Contact
 
 **Abrar Abdullah Rafid**  
-💼 [Portfolio](https://yourwebsite.com) | 🐦 [@yourhandle](https://twitter.com/yourhandle)  
-📧 Open an issue or DM for custom SaaS requests
+GitHub / X / Instagram: **@ThatRafid**  
+LinkedIn: **ThatRafid**  
+Portfolio: coming soon
+
+Open an issue or reach out directly for project discussions.
+
+---
+
+## License
+
+MIT unless stated otherwise per repository.
