@@ -82,7 +82,7 @@ You can reach me through:
 
 - 📧 Email: abrarabdullahrafid@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/thatrafid  
-- 🌐 Personal Site: https://thatrafid.pages.dev
+- 🌐 Portfolio Site: https://thatrafid.pages.dev
 
 When reaching out, include:
 - A short description of your project
