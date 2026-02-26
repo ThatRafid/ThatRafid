@@ -34,7 +34,7 @@ I’m an early-career builder focused on backend architecture, multi-tenant syst
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -80,9 +80,9 @@ If you're building a SaaS product, internal tool, or custom system and need stru
 
 You can reach me through:
 
-- 📧 Email: your@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌐 Personal Site: https://yourwebsite.com  
+- 📧 Email: abrarabdullahrafid@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/thatrafid  
+- 🌐 Personal Site: https://thatrafid.pages.dev
 
 When reaching out, include:
 - A short description of your project
