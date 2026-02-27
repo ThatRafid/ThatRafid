@@ -98,8 +98,6 @@ If you’re building something and need a developer who thinks in systems — fe
 
 📧 Email: [abrarabdullahrafid@gmail.com](mailto:abrarabdullahrafid@gmail.com)
 
-💼 [LinkedIn](https://linkedin.com/in/thatrafid) 
-
 🌐 [Portfolio](https://thatrafid.pages.dev/projects/)
 
 When messaging, include:
